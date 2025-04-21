@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+nltk
+scipy
+beautifulsoup4
+requests
+lxml
+streamlit
+flask
+python-dotenv
